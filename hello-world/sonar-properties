@@ -5,4 +5,4 @@ sonar.java.binaries=.
 sonar.java.sources=.
 sonar.sources=.
 sonar.sourceEncoding=UTF-8
-sonar.host.url=http://127.0.0.1:9000
+sonar.host.url=http://3.14.251.47:9000
